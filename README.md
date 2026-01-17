@@ -15,7 +15,7 @@
 ```javascript
 const vikas = {
     role: "Full Stack Developer",
-    location: "Rampur, Himachal Pradesh, India",
+    location: "Hamirpur, Himachal Pradesh, India",
     passions: ["Frontend + Backend development", "Building useful tools", "Tech experimentation"],
     currentFocus: "Creating seamless user experiences with modern web technologies",
     funFact: "Will code for paneer curry 🍛"
